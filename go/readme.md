@@ -14,3 +14,4 @@
 4)使用加密字符串替换exeGen.go文件中的text变量，运行go build exeGen.go生成exe，使用.\exeGen.exe passwd运行(passwd为自己设置的密码)
 
 
+![](https://github.com/echohun/miansha/blob/main/go/1.png?raw=true)

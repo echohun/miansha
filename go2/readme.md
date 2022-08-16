@@ -14,3 +14,4 @@
 4)使用加密字符串替换AesexeGen.go文件中的text变量，运行go build AesexeGen.go生成exe
 
 
+![](https://github.com/echohun/miansha/blob/main/go2/1.png?raw=true)
